@@ -4,7 +4,7 @@
 Utilizando esse readme para inserir aprendizados resumidos durante as aulas assistidas na plataforma DIO.
 
 Diretório 📁:
-[https://github.com/abarbarapeslo/Stud]
+[README.md]
 
 
 ## Documentação Git 📚
@@ -15,5 +15,6 @@ Diretório 📁:
 |Aulas | Resumos|
 |------|-------|
 |Armazenando resumos no repositório local| [Resumos](resumos)|
+
 
 
