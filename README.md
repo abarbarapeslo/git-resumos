@@ -14,5 +14,6 @@ Diretório 📁:
 
 |Aulas | Resumos|
 |------|-------|
-|Armazenando resumos no repositório local| [Resumos](https://github.com/abarbarapeslo/Stud/)|
+|Armazenando resumos no repositório local| [Resumos](resumos)|
+
 
