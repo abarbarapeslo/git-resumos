@@ -14,8 +14,9 @@ Diretório 📁:
 
 |Aulas | Resumos|
 |------|-------|
-|Aula 01| [Resumos]('https://github.com/abarbarapeslo/git-resumos/tree/b3090908016df5c12bbab48697a556b04948b9ff/resumos)|
-|Aula 02| [Resumos](reshttps://github.com/abarbarapeslo/git-resumos/tree/b3090908016df5c12bbab48697a556b04948b9ff/resumosumos)|
+|Aula 01| [Resumos](https://github.com/abarbarapeslo/git-resumos/tree/b3090908016df5c12bbab48697a556b04948b9ff/resumos)
+|Aula 02| [Resumos](reshttps://github.com/abarbarapeslo/git-resumos/tree/b3090908016df5c12bbab48697a556b04948b9ff/resumosumos)
+
 
 
 
